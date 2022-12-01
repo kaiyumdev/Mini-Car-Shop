@@ -1,0 +1,23 @@
+.main-container{
+    background-color: antiquewhite;
+}
+.main-container > h1{
+    text-align: center;
+}
+.products-container{
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products{
+    background-color: rgb(236, 221, 221);
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:20px;
+    border-radius: 10px;
+}
+.card{
+    background-color: rgb(139, 134, 134);
+}
+.cards >h1{
+    text-align: center;
+}

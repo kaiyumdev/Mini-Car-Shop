@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "name": "Car 1",
+    "price": "100",
+    "image": "https://i.ibb.co/1XR9T7s/1.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Car 2",    
+    "price": "110",
+    "image": "https://i.ibb.co/1mvSfWx/2.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Car 3",
+    "price": "120",
+    "image": "https://i.ibb.co/VJ2HyBF/3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Car 4",
+    "price": "130",
+    "image": "https://i.ibb.co/Krrh5pQ/4.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Car 5",
+    "price": "140",
+    "image": "https://i.ibb.co/3M9Wxvq/5.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Car 6",
+    "price": "150",
+    "image": "https://i.ibb.co/Z6dvmgm/6.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Car 7",
+    "price": "160",
+    "image": "https://i.ibb.co/9sSVfgM/7.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Car 8",
+    "price": "170",
+    "image": "https://i.ibb.co/xDrcKSC/8.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Car 9",
+    "price": "180",
+    "image": "https://i.ibb.co/23JtmZw/9.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Car 10",
+    "price": "London",
+    "image": "https://i.ibb.co/xJ9DMJ3/10.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Car 11",
+    "price": "190",
+    "image": "https://i.ibb.co/kHqNj7f/11.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Car 12",
+    "price": "200",
+    "image": "https://i.ibb.co/1mQ6WvB/12.jpg"
+  }
+]
