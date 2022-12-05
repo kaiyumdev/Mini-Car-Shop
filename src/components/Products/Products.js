@@ -50,8 +50,7 @@ const Products = () => {
             card={card}
             handleReset={handleReset}
             handleRemoveItem={handleRemoveItem}
-          >
-          </Card>
+          ></Card>
         </div>
       </div>
     </div>

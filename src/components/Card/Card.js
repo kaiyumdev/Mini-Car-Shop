@@ -15,7 +15,7 @@ const Card = ({ card, handleReset, handleRemoveItem }) => {
         <h1>Added Card Items:{card.length}</h1>
         {card.map((item) => {
           return (
-            <div className="card-details">
+            <div key={item.id} className="card-details">
               {item.name}
               <button onClick={() => handleRemoveItem(item)}>
                 <FontAwesomeIcon icon={faTrash} />
